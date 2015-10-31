@@ -1,0 +1,3 @@
+# Personalized-Online-News-Recommendation-System
+
+News articles coming under a various categories are extracted from various websites and presented to the end user at a single location. The ranking of the categories and the ranking of the news articles under each category are determined initially based on the user preference. The browsing pattern of the user is continuously tracked and the ranks of the categories and the articles are updated dynamically using a Machine Learning Algorithm so that the most popular news articles are displayed at the top of the page when the end user logs in every time.
